@@ -62,3 +62,10 @@ sky-logic/
 ├── script.js        # Calculator logic, Chart.js rendering, and Easter egg
 ├── wireshark.png    # Packet capture evidence for the LAN Breach study
 └── README.md        # Project documentation
+
+<img width="1600" height="761" alt="image" src="https://github.com/user-attachments/assets/fc61a7f0-22a6-438b-bffb-2fc9ca508535" />
+<img width="1600" height="439" alt="image" src="https://github.com/user-attachments/assets/e146e211-bdf7-411b-9366-7d4a734019ae" />
+<img width="1600" height="573" alt="image" src="https://github.com/user-attachments/assets/d9f3e224-037e-4e7d-86c4-edf289211695" />
+<img width="804" height="634" alt="image" src="https://github.com/user-attachments/assets/17da993a-4277-423a-a8fb-d30961272c25" />
+<img width="830" height="610" alt="image" src="https://github.com/user-attachments/assets/3e37b008-27bb-46bc-9e54-ec6cc03ee51c" />
+<img width="818" height="620" alt="image" src="https://github.com/user-attachments/assets/b179adf1-440d-4025-a751-17447c1bd4c3" />
